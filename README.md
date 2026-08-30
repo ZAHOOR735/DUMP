@@ -1,5 +1,5 @@
 "<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=230&section=header&text=INDIAN%20CYBER%20CID%20OWNER&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=230&section=header&text=PAKISTAI%20CCLONG%20TOOL%20OWNER&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <h1 align="center">
 <p align="center">
@@ -19,7 +19,7 @@
 </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/MADE%20IN%20INDIA-SPAMMER%20%26%20PROGRAMMER-black?style=for-the-badge&logo=hackthebox&logoColor=00ffcc">
-</p><h2 align="center">âš¡INDIAN MALâš¡</h2><p align="center">
+</p><h2 align="center">âš¡PAKISTANI MALâš¡</h2><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&lines=Hacker+Mode+Activated...;Welcome+To+ZAHOOR+System;Bypassing+Firewalls...;Access+Granted+âœ”;Cyber+World+Loading..."/>
 </p><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&size=22&center=true&vCenter=true&lines=Initializing+System...;Connecting+To+Dark+Server...;Accessing+Root...;Permission+Granted..."/>
